@@ -9,8 +9,8 @@ Svolgimento
 4 - inserite le vostre credenziali per il database nel file .env✅
 5 - Create un model Movie.php col comando php artisan make:model Movie✅
 6 - Create un controller che gestirà la rotta / col comando✅
-php artisan make:controller Guest/PageController
-7 - All’interno della funzione index() del controller, recuperate tutti i film dal database e passateli alla view, che quindi li visualizzerà a schermo, tramite delle card. 
+php artisan make:controller Guest/PageController✅
+7 - All’interno della funzione index() del controller, recuperate tutti i film dal database e passateli alla view, che quindi li visualizzerà a schermo, tramite delle card. ✅
 
 Bonus 
 Inventare una grafica a piacere per il sito e realizzarne il layout, aggiungendo lo stile con SASS.
